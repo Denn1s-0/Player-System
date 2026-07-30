@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Player Status Manager.vcxproj" Id="50b6942b-e910-4fcc-8268-bc5c07ec4834" />
+</Solution>
